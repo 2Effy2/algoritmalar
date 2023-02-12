@@ -1,0 +1,2 @@
+# algoritmalar
+merge short
